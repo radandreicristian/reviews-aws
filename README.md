@@ -1,5 +1,5 @@
 # Text Classification with AWS
-Part of the AWS Practical Data Science Course 🧠
+Part of the AWS Practical Data Science Course 🧠 Most notebooks / scripts are not written from scratch, but provided as-is and modified to a certain extent.
 
 ## Summary
 The repository contains three folders, each corresponding to a mini-project:
